@@ -10,3 +10,15 @@
 	path = ccpp/physics
 	url = https://github.com/NCAR/ccpp-physics
 	branch = master
+[submodule "fms"]
+	path = fms
+	url = https://github.com/NOAA-GFDL/FMS
+	branch = master
+[submodule "esmf"]
+	path = esmf
+	url = https://github.com/esmf-org/esmf
+	branch = master
+[submodule "ncep"]
+	path = ncep
+	url = https://github.com/NCAR/NCEPlibs 
+	branch = 3da51e139d5cd731c9fc27f39d88cb4e1328212b 
